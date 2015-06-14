@@ -1,0 +1,9 @@
+name: RocketScience
+main: landissure.mc.rocketscience.RocketScience
+version: 0.0.1
+commands:
+    rocket:
+      description: Gives the player a rocket.
+      usage: /rocket
+      permission: rs.use
+      permission-message: You aren't allowed to do that.
